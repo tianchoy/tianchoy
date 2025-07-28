@@ -11,13 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-**运行**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-FFFFFF?logo=bun&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-**跨平台开发**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-000000?logo=harmonyos&logoColor=white)
 
@@ -31,19 +26,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
 </div>
-
-
-## 🎮 业余生活
-
-- 💤 睡觉（坚信「睡眠是最好的调试工具」）
-- 📺 追剧
-
-## 📫 联系我
-
-[![Email](https://img.shields.io/badge/-tianchoy@live.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tianchoy@live.com)
-[![Twitter](https://static2.fanfou.com/img/fanfou_beta_narrow.svg)](https://fanfou.com/tianchoy)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tianchoy&label=Profile%20Views&color=blueviolet&style=flat" alt="访问统计" />
-  <img src="https://wakatime.com/badge/user/waka_077ad1f9-a7ce-4c7f-8dfb-63a194eb5aec.svg" alt="WakaTime 统计"> 
-</p>
