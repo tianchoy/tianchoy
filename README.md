@@ -25,20 +25,15 @@
 
 ## 📊 我的 GitHub 数据
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="90%" />
 </div>
 
-## 🌟 精选项目
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tianchoy&repo=bun-starter&theme=vue-dark)](https://github.com/tianchoy/bun-starter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tianchoy&repo=node-api-boilerplate&theme=vue-dark)](https://github.com/tianchoy/node-api-boilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tianchoy&repo=flutter-harmony-bridge&theme=vue-dark)](https://github.com/tianchoy/flutter-harmony-bridge)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
+</div>
 
 ## 🎮 业余生活
 
