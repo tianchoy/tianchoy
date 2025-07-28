@@ -1,8 +1,6 @@
-# 🚀 你好，我是web前端开发者 田超！
+# 🚀 你好！
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=console.log('Hello%20World!');热爱编码也热爱生活;React%20%7C%20Vue%20%7C%20Bun;Node.js%20%7C%20TypeScript;台球爱好者;睡眠专家" alt="动态打字效果" />
-</p>
+#### 我是 田超 ,一个web前端开发者！
 
 ## 🛠️ 技术栈
 
