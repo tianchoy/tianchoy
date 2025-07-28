@@ -1,10 +1,21 @@
-# 🚀 你好！
+# 🚀 你好,我是田超！
 
-#### 我是 田超 ,一个web前端开发者！
+**🚀 一个web前端开发者**[![GitHub followers](https://img.shields.io/github/followers/tianchoy?style=social)](https://github.com/tianchoy)
+
+---
+
+## 📌 关于我
+
+- 💼 目前在 **一家物联网公司** 担任 **前端开发** 岗位
+- 🌱 正在学习 **Flutter、UniappX和 Harmony** 技术
+- 🤔 正在寻找关于 **Flutter和Harmony** 开发的帮助
+- 📫 如何联系我: [邮箱](mailto:tianchoy@live.com)
+- ⚡ 有趣的事实: 还挺多的
+
+---
 
 ## 🛠️ 技术栈
-
-**前端核心**  
+ 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
