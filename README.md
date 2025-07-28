@@ -1,8 +1,9 @@
 # 🚀 你好,我是田超！
 
-**🚀 一个web前端开发者**[![GitHub followers](https://img.shields.io/github/followers/tianchoy?style=social)](https://github.com/tianchoy)
+[![GitHub followers](https://img.shields.io/github/followers/tianchoy?style=social)](https://github.com/tianchoy)
 
----
+**🚀 web前端开发者**
+
 
 ## 📌 关于我
 
@@ -12,12 +13,11 @@
 - 📫 如何联系我: [邮箱](mailto:tianchoy@live.com)
 - ⚡ 有趣的事实: 还挺多的
 
----
 
-## 🛠️ 技术栈
- 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+## 🛠️ 使用的技术栈
+
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
