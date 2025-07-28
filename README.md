@@ -19,7 +19,7 @@
 ## 📊 GitHub 数据
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="80%" />
 </div>
 
 <div align="left" width="100%">
