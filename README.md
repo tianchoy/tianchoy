@@ -40,7 +40,7 @@
 
 ## 📫 联系我
 
-[![Email](https://img.shields.io/badge/-tianchoy@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tianchoy@example.com)
+[![Email](https://img.shields.io/badge/-tianchoy@live.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tianchoy@live.com)
 [![Twitter](https://static2.fanfou.com/img/fanfou_beta_narrow.svg)](https://fanfou.com/tianchoy)
 
 <p align="center">
