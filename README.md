@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="60%" />
 </div>
 
 
