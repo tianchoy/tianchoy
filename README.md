@@ -18,11 +18,11 @@
 
 ## 📊 GitHub 数据
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="80%" />
-</div>
-
 <div align="left" width="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="100%" />
 </div>
