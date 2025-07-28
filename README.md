@@ -23,15 +23,15 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-000000?logo=harmonyos&logoColor=white)
 
-## 📊 我的 GitHub 数据
+## 📊 GitHub 数据
 
-<div align="center" width="100%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="70%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tianchoy&theme=github-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity" width="70%" />
+<div align="left" width="100%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianchoy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchoy&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&exclude_repo=archive,legacy" />
 </div>
 
 
