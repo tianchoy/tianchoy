@@ -52,5 +52,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tianchoy&label=Profile%20Views&color=blueviolet&style=flat" alt="访问统计" />
-  <img src="https://wakatime.com/badge/user/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" alt="WakaTime 统计"> 
+  <img src="https://wakatime.com/badge/user/waka_077ad1f9-a7ce-4c7f-8dfb-63a194eb5aec.svg" alt="WakaTime 统计"> 
 </p>
