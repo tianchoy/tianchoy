@@ -1,4 +1,4 @@
-# 🚀 你好,我是田超！
+# 🚀 你好，
 
 [![GitHub followers](https://img.shields.io/github/followers/tianchoy?style=social)](https://github.com/tianchoy)
 
