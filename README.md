@@ -8,7 +8,7 @@
 ## 📌 关于我
 
 - 💼 目前在一家 **物联网公司** 担任 **前端开发** 岗位
-- 🌱 正在学习 **Flutter、UniappX和 Harmony** 技术
+- 🌱 正在学习 **Flutter 和 Harmony** 技术
 - 🤔 正在寻找关于 **Flutter和Harmony** 开发的帮助
 - 📫 如何联系我: [邮箱](mailto:tianchoy@live.com) [饭否](https://fanfou.com/tianchoy)
 
